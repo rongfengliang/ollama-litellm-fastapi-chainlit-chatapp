@@ -1,0 +1,7 @@
+.chainlit
+__pycache__
+.files
+.DS_Store
+venv
+.idea
+*.pyc
